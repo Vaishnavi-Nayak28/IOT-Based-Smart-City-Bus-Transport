@@ -14,14 +14,14 @@ The Android application will also contain the details of all the buses like Bus 
 Keywords: Internet of things, IR sensors, GPS, GPRS, public transport, bus tracking, Android.
 
 Operating System:
-Raspbian
+- Raspbian
 
 Used:
-RASPBERRY PI 3 MODEL B+
-IR Sensors
-GSM Module
-Android Studio
-Google Cloud Platform
+1) RASPBERRY PI 3 MODEL B+
+2) IR Sensors
+3) GSM Module
+4) Android Studio
+5) Google Cloud Platform
 
 Screenshots:
 ![image](https://github.com/Vaishnavi-Nayak28/IOT-Based-Smart-City-Bus-Transport/assets/146263269/636aa1f7-464a-4c00-90ae-99d02c3a2010)
