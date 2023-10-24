@@ -4,7 +4,7 @@
 Problem Statement:
 Currently, public transport buses are not tracked by any means.
 The frequency of buses which are set, are based on the requirements of the people. At present, the frequency is high in the morning from 7 am to 11 am and in the evening from 5 pm to 9 pm and there is low frequency in the early morning, afternoon, and at night after 9 pm.
-In case of Bus failure, the conductor calls the depot manager and tells them to send an alternative bus and till the alternative bus comes the conductor helps passengers to get into the bus which is coming in that direction
+In case of Bus failure, the conductor calls the depot manager and tells them to send an alternative bus and till the alternative bus comes the conductor helps passengers to get into the bus which is coming in that direction.
 
 Solution:
 Trustworthiness in public transport is of great importance today. Citizens who use public buses waste a lot of time waiting for the bus at the bus stop. In the daily operation of a bus system, the movement of buses is affected by unknown conditions as the day progresses such as traffic or dispatching buses at irregular times from the depot.
