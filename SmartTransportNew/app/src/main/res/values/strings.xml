@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartTransportNew</string>
+    <string name="login">LOGIN</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="register">Register</string>
+    <string name="not_registered_sign_up_here">Not Registered? Sign up here</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="LOCATIONS">
+        <item>SELECT</item>
+        <item>Panjim</item>
+        <item>Margao</item>
+        <item>Ponda</item>
+        <item>Bambolim</item>
+    </string-array>
+</resources>
